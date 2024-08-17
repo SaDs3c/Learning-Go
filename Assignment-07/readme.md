@@ -1,7 +1,7 @@
 # Assignment 7
-Prompt the user for A, B, and C values and then use those values to determine the value of 'X' using the <a href="https://en.m.wikipidia.org/wiki/Quadratic_formula"> quadratic formula</a>
+Prompt the user for A, B, and C values and then use those values to determine the value of 'X' using the <a href="https://en.wikipedia.org/wiki/Quadratic_formula"> quadratic formula</a>
 
-if you need to brush up on the quadratic formula, hit up <a href="https://m.youtube.com/watch?v=iulx0z1lz8M"> Khan Academy! </a>
+if you need to brush up on the quadratic formula, hit up <a href="https://youtube.com/watch?v=iulx0z1lz8M"> Khan Academy! </a>
 
 Hint: Make your life easier by including the math package
 
